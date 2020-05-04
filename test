@@ -5,6 +5,7 @@ new test 2
 new test Vikas Chaubey1
 
 
+<<<<<<< HEAD
 Name : surana  Work : Data Analyst
 
 
@@ -16,3 +17,8 @@ Name: Shivangi add : profession : data scientist
 Name : kathu kas is now added 
 
 
+=======
+
+
+>>> new details added
+>>>>>>> 96f41fa... This i new life 1
